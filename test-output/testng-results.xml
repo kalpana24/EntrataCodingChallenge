@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-02T17:37:05 IST" name="Default suite" finished-at="2024-03-02T17:38:41 IST" duration-ms="95491">
+    <groups>
+    </groups>
+    <test started-at="2024-03-02T17:37:05 IST" name="Default test" finished-at="2024-03-02T17:38:41 IST" duration-ms="95491">
+      <class name="com.Entrata.Tests.BaseCampRegistrationTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.Entrata.Tests.BaseCampRegistrationTest@43c67247]" started-at="2024-03-02T17:37:05 IST" name="initializeDriver" finished-at="2024-03-02T17:37:55 IST" duration-ms="50132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="startApplication()[pri:0, instance:com.Entrata.Tests.BaseCampRegistrationTest@43c67247]" started-at="2024-03-02T17:37:55 IST" name="startApplication" finished-at="2024-03-02T17:37:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApplication -->
+        <test-method signature="BaseCampRegistration()[pri:0, instance:com.Entrata.Tests.BaseCampRegistrationTest@43c67247]" started-at="2024-03-02T17:37:55 IST" name="BaseCampRegistration" finished-at="2024-03-02T17:38:39 IST" duration-ms="44017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseCampRegistration -->
+        <test-method is-config="true" signature="terminateDriver()[pri:0, instance:com.Entrata.Tests.BaseCampRegistrationTest@43c67247]" started-at="2024-03-02T17:38:39 IST" name="terminateDriver" finished-at="2024-03-02T17:38:41 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.Entrata.Tests.BaseCampRegistrationTest@43c67247]" started-at="2024-03-02T17:38:39 IST" name="closeApplication" finished-at="2024-03-02T17:38:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.Entrata.Tests.BaseCampRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
